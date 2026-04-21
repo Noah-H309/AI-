@@ -12,5 +12,5 @@ Open the `manual.md` file with any markdown viewer or editor.
 This work is licensed under the **MIT License**. See the `LICENSE` file for full terms.
 
 ## Author
-© 2026 Your Name — [your@email.example]  
+© 2025 Your Name — [your@email.example]  
 Feel free to open issues or submit pull requests for improvements.
